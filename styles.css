@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1 {
+    color: #007bff; /* Blue color for h1 */
+}
+#hero {
+    background-image: url('path/to/hellcat-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #ec3838;
+    text-align: center;
+    padding: 100px 0; /* Adjust as needed */
+ }
+ 
+ .hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+ }
+ 
+ h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+ }
+ 
+ p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+ }
+ 
+ .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1.1em;
+    text-decoration: none;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+ }
